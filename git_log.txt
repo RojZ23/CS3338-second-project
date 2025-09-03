@@ -1,0 +1,29 @@
+commit dfe59ff92362f0dc1d23aea38f04ead5dd86dfd8
+Author: RojZ23 <rzalzar04@gmail.com>
+Date:   Tue Sep 2 19:57:58 2025 -0700
+
+    Added favorite movie div to index.html
+
+commit da6101aa080acc20928340e778eb8e9ad18fc6aa
+Author: RojZ23 <rzalzar04@gmail.com>
+Date:   Tue Sep 2 19:56:31 2025 -0700
+
+    Added favorite food div to index.html
+
+commit 14fed1f95997662967f677ef9181b6acf100c077
+Author: RojZ23 <rzalzar04@gmail.com>
+Date:   Tue Sep 2 19:54:29 2025 -0700
+
+    Added README.md to main branch
+
+commit 01c509799a401b8764e159d2de8a826cb9528141
+Author: RojZ23 <rzalzar04@gmail.com>
+Date:   Tue Sep 2 19:39:47 2025 -0700
+
+    Filled in blanks on index.html in info-fill branch
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
